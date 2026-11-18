@@ -111,3 +111,15 @@ mvn clean install
 Version control
 
 The project is stored in the GitHub repository PROG6112_2026_Test_ST10471254. The target/ folder is excluded through .gitignore.
+<img width="793" height="213" alt="image" src="https://github.com/user-attachments/assets/1531d75a-a968-46b6-968c-8ff0db217455" />
+<img width="1307" height="306" alt="image" src="https://github.com/user-attachments/assets/d340e720-5127-4042-97ed-16d31a73bf65" />
+<img width="1007" height="307" alt="image" src="https://github.com/user-attachments/assets/4863337c-b58b-42a7-848b-5fce260ec560" />
+<img width="670" height="192" alt="image" src="https://github.com/user-attachments/assets/7f8974ef-1d29-416b-8837-8f40e9d7d379" />
+<img width="584" height="213" alt="image" src="https://github.com/user-attachments/assets/5a5819d1-b79e-4f7f-91ce-abe87bfbea05" />
+<img width="733" height="210" alt="image" src="https://github.com/user-attachments/assets/fea92165-7eae-40ef-aadd-5621401fd59c" />
+<img width="749" height="231" alt="image" src="https://github.com/user-attachments/assets/e834497f-8f40-49fe-8abc-251b3ad3d35f" />
+
+
+
+
+
